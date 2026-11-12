@@ -1,1 +1,11 @@
-
+1001|SampleBook1|Author1|Publisher1|2001|1111111111|available|000|000|
+1002|SampleBook2|Author2|Publisher2|2002|2222222222|available|000|000|
+1003|SampleBook3|Author3|Publisher3|2003|3333333333|available|000|000|
+1004|SampleBook4|Author4|Publisher4|2004|4444444444|available|000|000|
+1005|SampleBook5|Author5|Publisher5|2005|5555555555|available|000|000|
+1006|SampleBook6|Author6|Publisher6|2006|6666666666|available|000|000|
+1007|SampleBook7|Author7|Publisher7|2007|7777777777|available|000|000|
+1008|SampleBook8|Author8|Publisher8|2008|8888888888|available|000|000|
+1009|SampleBook9|Author9|Publisher9|2009|9999999999|available|000|000|
+1010|SampleBook10|Author10|Publisher10|2010|1010101010|available|000|000|
+1011|SampleBook11|Author11|Publisher11|2011|1234567890|available|000|000|
